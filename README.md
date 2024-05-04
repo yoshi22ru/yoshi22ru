@@ -1,4 +1,4 @@
-### Hi there 👋
+### はじめまして！ 👋
 
 <p align="left">
   <a href="https://github.com/yoshi22ru">
