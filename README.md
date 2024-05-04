@@ -1,4 +1,7 @@
 ### はじめまして！ 👋
+## yoshiといいます。
+## 趣味は、🎮ゲーム・🎧音楽鑑賞・⚽スポーツ観戦です！
+## よろしくお願いします！
 
 <p align="left">
   <a href="https://github.com/yoshi22ru">
