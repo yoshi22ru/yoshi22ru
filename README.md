@@ -17,3 +17,13 @@
     <img height="20" src="https://badgen.org/img/zenn/yoshi22ru/articles?style=plastic" />
   </a>
 </p>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoshi22ru&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoshi22ru&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yoshi22ru&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoshi22ru&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yoshi22ru&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=yoshi22ru&theme=gruvbox)
